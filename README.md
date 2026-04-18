@@ -1,6 +1,6 @@
 # 🏢 Enterprise Homelab SIEM Environment
 
-A fully functional enterprise-style Security Operations Center (SOC) environment built from scratch on a single physical machine using nested virtualization. This project documents the complete build lifecycle — architecture decisions, configuration steps, troubleshooting, and the final working SIEM pipeline.
+A fully functional enterprise-style Security Operations Center (SOC) environment built from scratch on a single physical machine using nested virtualization. This project documents the complete build lifecycle - architecture decisions, configuration steps, troubleshooting, and the final working SIEM pipeline.
 
 ---
 
